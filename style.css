@@ -24,7 +24,7 @@
 }
 
 #home{
-	background: url(typing.jpeg) no-repeat center fixed;
+	background: typing.jpeg no-repeat center fixed;
 	display: table;
 	height: 100%;
 	position: relative;
