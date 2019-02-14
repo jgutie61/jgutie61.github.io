@@ -22,17 +22,9 @@
 }
 
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a:active{
-	color: #D5D5D5;
+	color: #FFF;
 }
 
-#home{
-	background:  no-repeat center fixed;
-	display: table;
-	height: 100%;
-	position: relative;
-	width: 100%;
-	background-size: cover;
-}
 
 .landing-text {
 	display: table-cell;
