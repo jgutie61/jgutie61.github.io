@@ -25,6 +25,14 @@
 	color: #FFF;
 }
 
+#home{
+	background: url(Documents/GitHub/jgutie61.github.io/img/typing.jpeg)no-repeat center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
 
 .landing-text {
 	display: table-cell;
