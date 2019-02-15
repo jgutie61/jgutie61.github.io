@@ -6,7 +6,6 @@
 .navbar {
 	 background-color: #23415C;
 	 padding: 1% 0;
-	 height: 50%;
 	 font-size: 1.2em;
 }
 
@@ -27,7 +26,7 @@
 }
 
 #home{
-	background-image: : url(Documents/GitHub/jgutie61.github.io/img/typing.jpeg) no-repeat center fixed;
+	background-image: : url(typing.jpeg) no-repeat center fixed;
 	display: table;
 	height: 100%;
 	position: relative;
